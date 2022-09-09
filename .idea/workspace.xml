@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <list default="true" id="40a3a8c2-0da7-43c7-bbfa-4465eb3e4320" name="Changes" comment="New controller with brand new view.">
       <change afterPath="$PROJECT_DIR$/src/main/resources/pl/simulax/mainMenu/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/pl/simulax/simulax/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/pl/simulax/simulax/hello-view.fxml" afterDir="false" />
 =======
+=======
+>>>>>>> Stashed changes
     <list default="true" id="f5765ae3-15d0-480a-a2cc-27e019c98f16" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
@@ -26,6 +29,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pl/simulax/simulax/HelloController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/pl/simulax/simulax/hello-view.fxml" afterDir="false" />
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +39,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,11 +58,15 @@
 =======
   <component name="Git.Settings">
 >>>>>>> Stashed changes
+=======
+  <component name="Git.Settings">
+>>>>>>> Stashed changes
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -73,12 +84,17 @@
   <component name="ProjectId" id="2DQzYEooZ9WacvL85lHUv98HNwZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
 >>>>>>> Stashed changes
+=======
+  <component name="ProjectId" id="2DQzYEooZ9WacvL85lHUv98HNwZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -87,10 +103,15 @@
     "WebServerToolWindowFactoryState": "false",
     "settings.editor.selected.configurable": "preferences.JavaFX"
 =======
+=======
+>>>>>>> Stashed changes
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   }
 }]]></component>
@@ -117,6 +138,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <task id="LOCAL-00001" summary="New controller with brand new view.">
       <created>1660648538681</created>
       <option name="number" value="00001" />
@@ -134,6 +156,8 @@
     </task>
     <option name="localTasksCounter" value="2" />
 =======
+=======
+>>>>>>> Stashed changes
     <task active="true" id="Default" summary="Default task">
       <changelist id="f5765ae3-15d0-480a-a2cc-27e019c98f16" name="Changes" comment="" />
       <created>1660646145230</created>
@@ -142,6 +166,9 @@
       <updated>1660646145230</updated>
       <workItem from="1660646147959" duration="1118000" />
     </task>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <servers />
   </component>
@@ -153,6 +180,7 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
             <State>
               <option name="FILTERS">
@@ -170,11 +198,15 @@
 =======
             <State />
 >>>>>>> Stashed changes
+=======
+            <State />
+>>>>>>> Stashed changes
           </value>
         </entry>
       </map>
     </option>
   </component>
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -186,6 +218,8 @@
     <expand />
     <select />
   </component>
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 </project>

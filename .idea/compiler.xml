@@ -10,6 +10,12 @@
       </profile>
     </annotationProcessing>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    <bytecodeTargetLevel>
+      <module name="Simulax" target="17" />
+    </bytecodeTargetLevel>
+>>>>>>> Stashed changes
 =======
     <bytecodeTargetLevel>
       <module name="Simulax" target="17" />
