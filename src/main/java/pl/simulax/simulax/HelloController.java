@@ -3,12 +3,15 @@ package pl.simulax.simulax;
 import javafx.fxml.FXML;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.control.Label;
+import javafx.scene.control.MenuBar;
 
 public class HelloController {
     @FXML
     private Label welcomeText;
     @FXML
     private Canvas workspaceArea;
+    @FXML
+    private MenuBar myMenuBar;
 
     @FXML
     protected void onHelloButtonClick() {
