@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
+<<<<<<< Updated upstream
 <?import javafx.scene.canvas.Canvas?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ButtonBar?>
@@ -49,4 +50,20 @@
       </top>
    </BorderPane>
     <Canvas id="workspaceArea" fx:id="workspaceArea" height="150.0" layoutX="2" layoutY="50" onMouseClicked="#onMousePressed" width="660.0" />
+=======
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.canvas.Canvas?>
+<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="pl.simulax.simulax.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+
+    <Label fx:id="welcomeText"/>
+    <Button text="Hello!" onAction="#onHelloButtonClick"/>
+    <Canvas fx:id="workspaceArea" layoutX="2" layoutY="50" onMouseClicked="#onMousePressed"/>
+>>>>>>> Stashed changes
 </VBox>

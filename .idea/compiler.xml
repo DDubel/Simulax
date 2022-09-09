@@ -9,5 +9,11 @@
         <module name="Simulax" />
       </profile>
     </annotationProcessing>
+<<<<<<< Updated upstream
+=======
+    <bytecodeTargetLevel>
+      <module name="Simulax" target="17" />
+    </bytecodeTargetLevel>
+>>>>>>> Stashed changes
   </component>
 </project>
